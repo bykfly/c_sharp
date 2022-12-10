@@ -1,0 +1,15 @@
+/home/ingener/desktop/c#/lesson2_hw/bin/Debug/net6.0/lesson2_hw
+/home/ingener/desktop/c#/lesson2_hw/bin/Debug/net6.0/lesson2_hw.deps.json
+/home/ingener/desktop/c#/lesson2_hw/bin/Debug/net6.0/lesson2_hw.runtimeconfig.json
+/home/ingener/desktop/c#/lesson2_hw/bin/Debug/net6.0/lesson2_hw.dll
+/home/ingener/desktop/c#/lesson2_hw/bin/Debug/net6.0/ref/lesson2_hw.dll
+/home/ingener/desktop/c#/lesson2_hw/bin/Debug/net6.0/lesson2_hw.pdb
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/lesson2_hw.csproj.AssemblyReference.cache
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/lesson2_hw.GeneratedMSBuildEditorConfig.editorconfig
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/lesson2_hw.AssemblyInfoInputs.cache
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/lesson2_hw.AssemblyInfo.cs
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/lesson2_hw.csproj.CoreCompileInputs.cache
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/lesson2_hw.dll
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/ref/lesson2_hw.dll
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/lesson2_hw.pdb
+/home/ingener/desktop/c#/lesson2_hw/obj/Debug/net6.0/lesson2_hw.genruntimeconfig.cache
